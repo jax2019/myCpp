@@ -5,7 +5,8 @@
  * 
  * "Copyright (c) 2013 by Objectwrite, Inc., Josee Lajoie, and Barbara E. Moo."
  * 
- * 
+ *
+ *
  * "The authors and publisher have taken care in the preparation of this book,
  * but make no expressed or implied warranty of any kind and assume no
  * responsibility for errors or omissions. No liability is assumed for
